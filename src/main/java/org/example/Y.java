@@ -1,4 +1,4 @@
-
+package org.example;
 
 /**
  * Class Y
